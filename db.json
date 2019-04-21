@@ -27,7 +27,7 @@
       "addr": "167 Charing Cross Road, London (West End)",
       "bat": "100%",
       "net": "LTE",
-      "sound", "on"
+      "sound": "on"
     },
     {
       "id": 12,
@@ -42,7 +42,7 @@
       "addr": "5B Baron's Place, London (Waterloo)",
       "bat": "88%",
       "net": "HSPA+",
-      "sound", "vibro"
+      "sound": "vibro"
     },
     {
       "id": 13,
@@ -57,7 +57,7 @@
       "addr": "1 Crestfield Street, London (Grays Inn)",
       "bat": "55%",
       "net": "HSPA+",
-      "sound", "vibro"
+      "sound": "vibro"
     },
     {
       "id": 14,
@@ -72,7 +72,7 @@
       "addr": "21 Great Guildford Street, London (Southwark)",
       "bat": "72%",
       "net": "WiFi",
-      "sound", "off"
+      "sound": "off"
     },
     {
       "id": 15,
@@ -87,7 +87,7 @@
       "addr": "29 Redwald Road, London (Walthamstow)",
       "bat": "29%",
       "net": "WiFi",
-      "sound", "on"
+      "sound": "on"
     },
     {
       "id": 16,
@@ -102,7 +102,7 @@
       "addr": "13 East Heath Road, London (Hampstead)",
       "bat": "65%",
       "net": "LTE",
-      "sound", "on"
+      "sound": "on"
     },
     {
       "id": 17,
@@ -117,7 +117,7 @@
       "addr": "94 Akerman Road, London (Lambeth)",
       "bat": "91%",
       "net": "WiFi",
-      "sound", "vibro"
+      "sound": "vibro"
     },
     {
       "id": 18,
@@ -132,7 +132,7 @@
       "addr": "16 Peckham High Street, London (Peckham)",
       "bat": "18%",
       "net": "HSPA",
-      "sound", "on"
+      "sound": "on"
     },
     {
       "id": 21,
@@ -147,7 +147,7 @@
       "addr": "Recht Boomssloot 47C, Amsterdam",
       "bat": "78%",
       "net": "LTE",
-      "sound", "on"
+      "sound": "on"
     },
     {
       "id": 22,
@@ -162,7 +162,7 @@
       "addr": "Minervalaan 19, Amsterdam",
       "bat": "58%",
       "net": "HSPA+",
-      "sound", "vibro"
+      "sound": "vibro"
     },
     {
       "id": 23,
@@ -177,7 +177,7 @@
       "addr": "Jan Haringstraat 19, Amsterdam",
       "bat": "35%",
       "net": "LTE",
-      "sound", "off"
+      "sound": "off"
     },
     {
       "id": 24,
@@ -192,7 +192,7 @@
       "addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)",
       "bat": "81%",
       "net": "WiFi",
-      "sound", "on"
+      "sound": "on"
     }
   ],
   "places": [
