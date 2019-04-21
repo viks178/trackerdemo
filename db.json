@@ -1,0 +1,272 @@
+{
+  "circles": [
+    {
+      "id": 11111,
+      "name": "Circle 1",
+      "color": "#009688",
+      "size": 8,
+    }, 
+    {
+      "id": 22222,
+      "name": "Circle 2",
+      "color": "#7C4DFF",
+      "size": 4,
+    }
+  ],
+  "users": [
+  	{
+      "id": 11,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Leo Gill",
+      "img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "lat": 51.516102,
+      "lon": -0.130463,
+      "acc": 20,
+      "ago": 0,
+      "addr": "167 Charing Cross Road, London (West End)"
+    },
+    {
+      "id": 12,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Wyatt Morris",
+      "img": "https://randomuser.me/api/portraits/men/91.jpg",
+      "lat": 51.500789,
+      "lon": -0.107117,
+      "acc": 5,
+      "ago": 0,
+      "addr": "5B Baron's Place, London (Waterloo)"
+    },
+    {
+      "id": 13,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "June Cha",
+      "img": "https://randomuser.me/api/portraits/women/44.jpg",
+      "lat": 51.529755,
+      "lon": -0.122425,
+      "acc": 50,
+      "ago": 0,
+      "addr": "1 Crestfield Street, London (Grays Inn)"
+    },
+    {
+      "id": 14,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Iida Niskanen",
+      "img": "https://randomuser.me/api/portraits/women/68.jpg",
+      "lat": 51.505918,
+      "lon": -0.097504,
+      "acc": 10,
+      "ago": 0,
+      "addr": "21 Great Guildford Street, London (Southwark)"
+    },
+    {
+      "id": 15,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Ferdinand Karl",
+      "img": "https://randomuser.me/api/portraits/men/78.jpg",
+      "lat": 51.553672,
+      "lon": -0.040660,
+      "acc": 30,
+      "ago": 0,
+      "addr": "29 Redwald Road, London (Walthamstow)"
+    },
+    {
+      "id": 16,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Mia Denys",
+      "img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "lat": 51.563366,
+      "lon": -0.168228,
+      "acc": 15,
+      "ago": 0,
+      "addr": "13 East Heath Road, London (Hampstead)"
+    },
+    {
+      "id": 17,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Harold Adams",
+      "img": "https://randomuser.me/api/portraits/men/17.jpg",
+      "lat": 51.474791,
+      "lon": -0.106158,
+      "acc": 25,
+      "ago": 0,
+      "addr": "94 Akerman Road, London (Lambeth)"
+    },
+    {
+      "id": 18,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Nikky Engelen",
+      "img": "https://randomuser.me/api/portraits/women/88.jpg",
+      "lat": 51.473482,
+      "lon": -0.072827,
+      "acc": 70,
+      "ago": 0,
+      "addr": "16 Peckham High Street, London (Peckham)"
+    },
+    {
+      "id": 21,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Leo Fritz",
+      "img": "https://randomuser.me/api/portraits/men/58.jpg",
+      "lat": 52.372591,
+      "lon": 4.902786,
+      "acc": 100,
+      "ago": 0,
+      "addr": "Recht Boomssloot 47C, Amsterdam"
+    },
+    {
+      "id": 22,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Christopher Martin",
+      "img": "",
+      "lat": 52.349347,
+      "lon": 4.872683,
+      "acc": 25,
+      "ago": 0,
+      "addr": "Minervalaan 19, Amsterdam"
+    },
+    {
+      "id": 23,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Laura Rasmussen",
+      "img": "https://randomuser.me/api/portraits/women/9.jpg",
+      "lat": 52.376811,
+      "lon": 4.860764,
+      "acc": 20,
+      "ago": 0,
+      "addr": "Jan Haringstraat 19, Amsterdam"
+    },
+    {
+      "id": 24,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Topias Kantola",
+      "img": "https://randomuser.me/api/portraits/men/60.jpg",
+      "lat": 52.386368,
+      "lon": 4.841916,
+      "acc": 30,
+      "ago": 0,
+      "addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)"
+    }
+  ],
+  "places": [
+    {
+      "id": 11,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Hyde Park",
+      "img": "https://farm8.static.flickr.com/7053/7082889379_8655577530_b.jpg",
+      "lat": 51.507378,
+      "lon": -0.163767,
+      "radius": 500,
+      "addr": "Hyde Park, London",
+      "danger": false
+    }, 
+    {
+      "id": 12,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "King's Cross",
+      "img": "https://farm5.staticflickr.com/4750/38688507120_b5e10228bf_b.jpg",
+      "lat": 51.531965,
+      "lon": -0.123557,
+      "radius": 300,
+      "addr": "30 York Way, London",
+      "danger": true
+    },
+    {
+      "id": 13,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Buckingham Palace",
+      "img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
+      "lat": 51.500776,
+      "lon": -0.142901,
+      "radius": 500,
+      "addr": "Ambassador's Court, London (Westminster)",
+      "danger": false
+    },
+    {
+      "id": 14,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Vauxhall",
+      "img": "https://i.pinimg.com/originals/f5/aa/be/f5aabee3976823bbe2eb58f79f3d39ac.jpg",
+      "lat": 51.485993,
+      "lon": -0.124874,
+      "radius": 400,
+      "addr": "20B Wandsworth Road, London (Vauxhall)",
+      "danger": false
+    },
+    {
+      "id": 15,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "Tower Bridge",
+      "img": "https://farm8.staticflickr.com/7716/27921922231_16484f199d_b.jpg",
+      "lat": 51.505675,
+      "lon": -0.075190,
+      "radius": 250,
+      "addr": "Tower Bridge, London (Poplar)",
+      "danger": false
+    },
+    {
+      "id": 16,
+      "circle_id": 11111,
+      "circle_color": "#009688",
+      "name": "School 21",
+      "img": "https://farm1.staticflickr.com/31/47996620_aea8328919_m.jpg",
+      "lat": 51.538224,
+      "lon": 0.001053,
+      "radius": 200,
+      "addr": "2-6 New Mount Street, London (West Ham)",
+      "danger": false
+    },
+    {
+      "id": 21,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Flevopark",
+      "img": "https://live.staticflickr.com/3065/2541129128_846d37ab8a_z.jpg",
+      "lat": 52.360186,
+      "lon": 4.950414,
+      "radius": 400,
+      "addr": "Flevopark, Amsterdam",
+      "danger": false
+    },
+    {
+      "id": 22,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Koninklijk Paleis",
+      "img": "https://thumbs.dreamstime.com/t/amsterdam-cuadrado-de-la-presa-por-noche-51440807.jpg",
+      "lat": 52.373148,
+      "lon": 4.891379,
+      "radius": 200,
+      "addr": "Mozes en Aäronstraat 4, Amsterdam",
+      "danger": false
+    },
+    {
+      "id": 23,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Central station",
+      "img": "https://farm1.staticflickr.com/730/32184998135_d6757219a2_b.jpg",
+      "lat": 52.377779,
+      "lon": 4.901251,
+      "radius": 300,
+      "addr": "Stationsplein 19B, Amsterdam",
+      "danger": false
+    }
+  ]
+}
