@@ -24,7 +24,10 @@
       "lon": -0.130463,
       "acc": 20,
       "ago": 0,
-      "addr": "167 Charing Cross Road, London (West End)"
+      "addr": "167 Charing Cross Road, London (West End)",
+      "bat": "100%",
+      "net": "LTE",
+      "sound", "on"
     },
     {
       "id": 12,
@@ -36,7 +39,10 @@
       "lon": -0.107117,
       "acc": 5,
       "ago": 0,
-      "addr": "5B Baron's Place, London (Waterloo)"
+      "addr": "5B Baron's Place, London (Waterloo)",
+      "bat": "88%",
+      "net": "HSPA+",
+      "sound", "vibro"
     },
     {
       "id": 13,
@@ -48,7 +54,10 @@
       "lon": -0.122425,
       "acc": 50,
       "ago": 0,
-      "addr": "1 Crestfield Street, London (Grays Inn)"
+      "addr": "1 Crestfield Street, London (Grays Inn)",
+      "bat": "55%",
+      "net": "HSPA+",
+      "sound", "vibro"
     },
     {
       "id": 14,
@@ -60,7 +69,10 @@
       "lon": -0.097504,
       "acc": 10,
       "ago": 0,
-      "addr": "21 Great Guildford Street, London (Southwark)"
+      "addr": "21 Great Guildford Street, London (Southwark)",
+      "bat": "72%",
+      "net": "WiFi",
+      "sound", "off"
     },
     {
       "id": 15,
@@ -72,7 +84,10 @@
       "lon": -0.040660,
       "acc": 30,
       "ago": 0,
-      "addr": "29 Redwald Road, London (Walthamstow)"
+      "addr": "29 Redwald Road, London (Walthamstow)",
+      "bat": "29%",
+      "net": "WiFi",
+      "sound", "on"
     },
     {
       "id": 16,
@@ -84,7 +99,10 @@
       "lon": -0.168228,
       "acc": 15,
       "ago": 0,
-      "addr": "13 East Heath Road, London (Hampstead)"
+      "addr": "13 East Heath Road, London (Hampstead)",
+      "bat": "65%",
+      "net": "LTE",
+      "sound", "on"
     },
     {
       "id": 17,
@@ -96,7 +114,10 @@
       "lon": -0.106158,
       "acc": 25,
       "ago": 0,
-      "addr": "94 Akerman Road, London (Lambeth)"
+      "addr": "94 Akerman Road, London (Lambeth)",
+      "bat": "91%",
+      "net": "WiFi",
+      "sound", "vibro"
     },
     {
       "id": 18,
@@ -108,7 +129,10 @@
       "lon": -0.072827,
       "acc": 70,
       "ago": 0,
-      "addr": "16 Peckham High Street, London (Peckham)"
+      "addr": "16 Peckham High Street, London (Peckham)",
+      "bat": "18%",
+      "net": "HSPA",
+      "sound", "on"
     },
     {
       "id": 21,
@@ -120,7 +144,10 @@
       "lon": 4.902786,
       "acc": 100,
       "ago": 0,
-      "addr": "Recht Boomssloot 47C, Amsterdam"
+      "addr": "Recht Boomssloot 47C, Amsterdam",
+      "bat": "78%",
+      "net": "LTE",
+      "sound", "on"
     },
     {
       "id": 22,
@@ -132,7 +159,10 @@
       "lon": 4.872683,
       "acc": 25,
       "ago": 0,
-      "addr": "Minervalaan 19, Amsterdam"
+      "addr": "Minervalaan 19, Amsterdam",
+      "bat": "58%",
+      "net": "HSPA+",
+      "sound", "vibro"
     },
     {
       "id": 23,
@@ -144,7 +174,10 @@
       "lon": 4.860764,
       "acc": 20,
       "ago": 0,
-      "addr": "Jan Haringstraat 19, Amsterdam"
+      "addr": "Jan Haringstraat 19, Amsterdam",
+      "bat": "35%",
+      "net": "LTE",
+      "sound", "off"
     },
     {
       "id": 24,
@@ -156,7 +189,10 @@
       "lon": 4.841916,
       "acc": 30,
       "ago": 0,
-      "addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)"
+      "addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)",
+      "bat": "81%",
+      "net": "WiFi",
+      "sound", "on"
     }
   ],
   "places": [
