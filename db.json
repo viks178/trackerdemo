@@ -193,6 +193,21 @@
       "bat": "81%",
       "net": "WiFi",
       "sound": "on"
+    },
+    {
+      "id": 25,
+      "circle_id": 22222,
+      "circle_color": "#7C4DFF",
+      "name": "Emeline Duarte",
+      "img": "https://randomuser.me/api/portraits/women/15.jpg",
+      "lat": 52.343264,
+      "lon": 4.925995,
+      "acc": 20,
+      "ago": 0,
+      "addr": "Von Guerickestraat 93, Amsterdam",
+      "bat": "81%",
+      "net": "LTE",
+      "sound": "on"
     }
   ],
   "places": [
