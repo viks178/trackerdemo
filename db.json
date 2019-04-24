@@ -17,6 +17,7 @@
   	{
       "id": 11,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Leo Gill",
       "img": "https://randomuser.me/api/portraits/men/32.jpg",
@@ -32,6 +33,7 @@
     {
       "id": 12,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Wyatt Morris",
       "img": "https://randomuser.me/api/portraits/men/91.jpg",
@@ -47,6 +49,7 @@
     {
       "id": 13,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "June Cha",
       "img": "https://randomuser.me/api/portraits/women/44.jpg",
@@ -62,6 +65,7 @@
     {
       "id": 14,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Iida Niskanen",
       "img": "https://randomuser.me/api/portraits/women/68.jpg",
@@ -76,6 +80,7 @@
     },
     {
       "id": 15,
+      "circle_name": "Circle 1",
       "circle_id": 11111,
       "circle_color": "#009688",
       "name": "Ferdinand Karl",
@@ -92,6 +97,7 @@
     {
       "id": 16,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Mia Denys",
       "img": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -107,6 +113,7 @@
     {
       "id": 17,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Harold Adams",
       "img": "https://randomuser.me/api/portraits/men/17.jpg",
@@ -122,6 +129,7 @@
     {
       "id": 18,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Nikky Engelen",
       "img": "https://randomuser.me/api/portraits/women/88.jpg",
@@ -137,6 +145,7 @@
     {
       "id": 21,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Leo Fritz",
       "img": "https://randomuser.me/api/portraits/men/58.jpg",
@@ -152,6 +161,7 @@
     {
       "id": 22,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Alexander Martin",
       "img": "",
@@ -167,6 +177,7 @@
     {
       "id": 23,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Laura Rasmussen",
       "img": "https://randomuser.me/api/portraits/women/9.jpg",
@@ -182,6 +193,7 @@
     {
       "id": 24,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Topias Kantola",
       "img": "https://randomuser.me/api/portraits/men/60.jpg",
@@ -197,6 +209,7 @@
     {
       "id": 25,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Emeline Duarte",
       "img": "https://randomuser.me/api/portraits/women/15.jpg",
@@ -214,6 +227,7 @@
     {
       "id": 11,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Hyde Park",
       "img": "https://farm8.static.flickr.com/7053/7082889379_8655577530_b.jpg",
@@ -226,6 +240,7 @@
     {
       "id": 12,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "King's Cross",
       "img": "https://farm5.staticflickr.com/4750/38688507120_b5e10228bf_b.jpg",
@@ -238,6 +253,7 @@
     {
       "id": 13,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Buckingham Palace",
       "img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
@@ -250,6 +266,7 @@
     {
       "id": 14,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Vauxhall",
       "img": "https://i.pinimg.com/originals/f5/aa/be/f5aabee3976823bbe2eb58f79f3d39ac.jpg",
@@ -262,6 +279,7 @@
     {
       "id": 15,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "Tower Bridge",
       "img": "https://farm8.staticflickr.com/7716/27921922231_16484f199d_b.jpg",
@@ -274,6 +292,7 @@
     {
       "id": 16,
       "circle_id": 11111,
+      "circle_name": "Circle 1",
       "circle_color": "#009688",
       "name": "School 21",
       "img": "https://farm1.staticflickr.com/31/47996620_aea8328919_m.jpg",
@@ -286,6 +305,7 @@
     {
       "id": 21,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Flevopark",
       "img": "https://live.staticflickr.com/3065/2541129128_846d37ab8a_z.jpg",
@@ -298,6 +318,7 @@
     {
       "id": 22,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Koninklijk Paleis",
       "img": "https://thumbs.dreamstime.com/t/amsterdam-cuadrado-de-la-presa-por-noche-51440807.jpg",
@@ -310,6 +331,7 @@
     {
       "id": 23,
       "circle_id": 22222,
+      "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
       "name": "Central station",
       "img": "https://farm1.staticflickr.com/730/32184998135_d6757219a2_b.jpg",
