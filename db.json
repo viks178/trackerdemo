@@ -16,6 +16,7 @@
   "users": [
   	{
       "id": 11,
+      "admin": 1,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -32,6 +33,7 @@
     },
     {
       "id": 12,
+      "admin": 1,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -48,6 +50,7 @@
     },
     {
       "id": 13,
+      "admin": 0,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -64,6 +67,7 @@
     },
     {
       "id": 14,
+      "admin": 1,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -80,6 +84,7 @@
     },
     {
       "id": 15,
+      "admin": 0,
       "circle_name": "Circle 1",
       "circle_id": 11111,
       "circle_color": "#009688",
@@ -96,6 +101,7 @@
     },
     {
       "id": 16,
+      "admin": 1,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -112,6 +118,7 @@
     },
     {
       "id": 17,
+      "admin": 1,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -128,6 +135,7 @@
     },
     {
       "id": 18,
+      "admin": 0,
       "circle_id": 11111,
       "circle_name": "Circle 1",
       "circle_color": "#009688",
@@ -144,6 +152,7 @@
     },
     {
       "id": 21,
+      "admin": 1,
       "circle_id": 22222,
       "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
@@ -160,6 +169,7 @@
     },
     {
       "id": 22,
+      "admin": 1,
       "circle_id": 22222,
       "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
@@ -176,6 +186,7 @@
     },
     {
       "id": 23,
+      "admin": 0,
       "circle_id": 22222,
       "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
@@ -192,6 +203,7 @@
     },
     {
       "id": 24,
+      "admin": 0,
       "circle_id": 22222,
       "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
@@ -208,6 +220,7 @@
     },
     {
       "id": 25,
+      "admin": 1,
       "circle_id": 22222,
       "circle_name": "Circle 2",
       "circle_color": "#7C4DFF",
