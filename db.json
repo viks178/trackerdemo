@@ -29,6 +29,7 @@
       "addr": "167 Charing Cross Road, London (West End)",
       "bat": "100%",
       "net": "LTE",
+      "act": "still",
       "sound": "on"
     },
     {
@@ -46,6 +47,7 @@
       "addr": "5B Baron's Place, London (Waterloo)",
       "bat": "88%",
       "net": "HSPA+",
+      "act": "in_vehicle",
       "sound": "vibro"
     },
     {
@@ -63,6 +65,7 @@
       "addr": "1 Crestfield Street, London (Grays Inn)",
       "bat": "55%",
       "net": "HSPA+",
+      "act": "still",
       "sound": "vibro"
     },
     {
@@ -80,6 +83,7 @@
       "addr": "518 Fulham Road, London (Hammersmith)",
       "bat": "72%",
       "net": "WiFi",
+      "act": "still",
       "sound": "off"
     },
     {
@@ -97,6 +101,7 @@
       "addr": "29 Redwald Road, London (Walthamstow)",
       "bat": "29%",
       "net": "WiFi",
+      "act": "on_foot",
       "sound": "on"
     },
     {
@@ -114,6 +119,7 @@
       "addr": "13 East Heath Road, London (Hampstead)",
       "bat": "65%",
       "net": "LTE",
+      "act": "in_vehicle",
       "sound": "on"
     },
     {
@@ -131,6 +137,7 @@
       "addr": "94 Akerman Road, London (Lambeth)",
       "bat": "91%",
       "net": "WiFi",
+      "act": "",
       "sound": "vibro"
     },
     {
@@ -148,6 +155,7 @@
       "addr": "16 Peckham High Street, London (Peckham)",
       "bat": "18%",
       "net": "HSPA",
+      "act": "still",
       "sound": "on"
     },
     {
@@ -165,6 +173,7 @@
       "addr": "Recht Boomssloot 47C, Amsterdam",
       "bat": "78%",
       "net": "LTE",
+      "act": "still",
       "sound": "on"
     },
     {
@@ -182,6 +191,7 @@
       "addr": "Minervalaan 19, Amsterdam",
       "bat": "58%",
       "net": "HSPA+",
+      "act": "in_vehicle",
       "sound": "vibro"
     },
     {
@@ -199,6 +209,7 @@
       "addr": "Jan Haringstraat 19, Amsterdam",
       "bat": "35%",
       "net": "LTE",
+      "act": "on_foot",
       "sound": "off"
     },
     {
@@ -216,6 +227,7 @@
       "addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)",
       "bat": "81%",
       "net": "WiFi",
+      "act": "",
       "sound": "on"
     },
     {
@@ -233,6 +245,7 @@
       "addr": "Von Guerickestraat 93, Amsterdam",
       "bat": "81%",
       "net": "LTE",
+      "act": "in_vehicle",
       "sound": "on"
     }
   ],
