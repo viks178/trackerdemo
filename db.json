@@ -141,24 +141,6 @@
       "sound": "vibro"
     },
     {
-      "id": 18,
-      "admin": 0,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "Nikky Engelen",
-      "img": "https://randomuser.me/api/portraits/women/88.jpg",
-      "lat": 51.473482,
-      "lon": -0.072827,
-      "acc": 70,
-      "ago": 0,
-      "addr": "16 Peckham High Street, London (Peckham)",
-      "bat": "18%",
-      "net": "HSPA",
-      "act": "still",
-      "sound": "on"
-    },
-    {
       "id": 21,
       "admin": 1,
       "circle_id": 22222,
@@ -466,20 +448,6 @@
       "bat": "58%",
       "net": "LTE",
       "act": "in_vehicle"
-    },
-    {
-      "user_id": 21,
-      "user_color": "#7C4DFF",
-      "type": "default",
-      "param": "",
-      "start_time": 0,
-      "end_time": 0,
-      "lat": 52.377880,
-      "lon": 4.901355,
-      "addr": "Test address 5, Amsterdam",
-      "bat": "55%",
-      "net": "HSPA+",
-      "act": "on_foot"
     }
   ]
 }
