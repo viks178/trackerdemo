@@ -4,7 +4,7 @@
     {"id": 22222,"name": "Circle 2","color": "#7C4DFF","size": 5}
   ],
   "users": [
-  	{
+    {
       "id": 11,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Leo Gill","img": "https://randomuser.me/api/portraits/men/32.jpg",
       "lat": 51.516102,"lon": -0.130463,"acc": 20,
