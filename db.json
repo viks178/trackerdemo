@@ -480,20 +480,6 @@
       "bat": "55%",
       "net": "HSPA+",
       "act": "on_foot"
-    },
-    {
-      "user_id": 21,
-      "user_color": "#7C4DFF",
-      "type": "default",
-      "param": "",
-      "start_time": 0,
-      "end_time": 0,
-      "lat": 52.377892,
-      "lon": 4.901375,
-      "addr": "Test address 6, Amsterdam",
-      "bat": "50%",
-      "net": "HSPA+",
-      "act": "still"
     }
   ]
 }
