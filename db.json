@@ -79,121 +79,50 @@
   ],
   "places": [
     {
-      "id": 11,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "Hyde Park",
-      "img": "https://farm8.static.flickr.com/7053/7082889379_8655577530_b.jpg",
-      "lat": 51.507378,
-      "lon": -0.163767,
-      "radius": 500,
-      "addr": "Hyde Park, London",
-      "danger": false
-    }, 
-    {
-      "id": 12,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "King's Cross",
-      "img": "https://farm5.staticflickr.com/4750/38688507120_b5e10228bf_b.jpg",
-      "lat": 51.531965,
-      "lon": -0.123557,
-      "radius": 300,
-      "addr": "30 York Way, London",
-      "danger": true
-    },
-    {
-      "id": 13,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "Buckingham Palace",
-      "img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
-      "lat": 51.500776,
-      "lon": -0.142901,
-      "radius": 500,
-      "addr": "Ambassador's Court, London",
-      "danger": false
-    },
-    {
-      "id": 14,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "Vauxhall",
-      "img": "https://i.pinimg.com/originals/f5/aa/be/f5aabee3976823bbe2eb58f79f3d39ac.jpg",
-      "lat": 51.485993,
-      "lon": -0.124874,
-      "radius": 400,
-      "addr": "20B Wandsworth Road, London",
-      "danger": false
-    },
-    {
-      "id": 15,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "Tower Bridge",
-      "img": "https://farm8.staticflickr.com/7716/27921922231_16484f199d_b.jpg",
-      "lat": 51.505675,
-      "lon": -0.075190,
-      "radius": 250,
-      "addr": "Tower Bridge, London",
-      "danger": false
-    },
-    {
-      "id": 16,
-      "circle_id": 11111,
-      "circle_name": "Circle 1",
-      "circle_color": "#009688",
-      "name": "School 21",
-      "img": "https://farm1.staticflickr.com/31/47996620_aea8328919_m.jpg",
-      "lat": 51.538224,
-      "lon": 0.001053,
-      "radius": 200,
-      "addr": "2-6 New Mount Street, London",
-      "danger": false
-    },
-    {
-      "id": 21,
-      "circle_id": 22222,
-      "circle_name": "Circle 2",
-      "circle_color": "#7C4DFF",
-      "name": "Flevopark",
-      "img": "https://live.staticflickr.com/3065/2541129128_846d37ab8a_z.jpg",
-      "lat": 52.360186,
-      "lon": 4.950414,
-      "radius": 400,
-      "addr": "Flevopark, Amsterdam",
-      "danger": false
-    },
-    {
-      "id": 22,
-      "circle_id": 22222,
-      "circle_name": "Circle 2",
-      "circle_color": "#7C4DFF",
-      "name": "Koninklijk Paleis",
-      "img": "https://thumbs.dreamstime.com/t/amsterdam-cuadrado-de-la-presa-por-noche-51440807.jpg",
-      "lat": 52.373148,
-      "lon": 4.891379,
-      "radius": 200,
-      "addr": "Mozes en Aäronstraat 4, Amsterdam",
-      "danger": false
-    },
-    {
-      "id": 23,
-      "circle_id": 22222,
-      "circle_name": "Circle 2",
-      "circle_color": "#7C4DFF",
-      "name": "Central station",
-      "img": "https://farm1.staticflickr.com/730/32184998135_d6757219a2_b.jpg",
-      "lat": 52.377779,
-      "lon": 4.901251,
-      "radius": 300,
-      "addr": "Stationsplein 19B, Amsterdam",
-      "danger": false
+      "id": 11,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "Hyde Park","img": "https://farm8.static.flickr.com/7053/7082889379_8655577530_b.jpg",
+      "lat": 51.507378,"lon": -0.163767,"radius": 500,
+      "addr": "Hyde Park, London","danger": false
+    }, {
+      "id": 12,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "King's Cross","img": "https://farm5.staticflickr.com/4750/38688507120_b5e10228bf_b.jpg",
+      "lat": 51.531965,"lon": -0.123557,"radius": 300,
+      "addr": "30 York Way, London","danger": true
+    },{
+      "id": 13,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "Buckingham Palace","img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
+      "lat": 51.500776,"lon": -0.142901,"radius": 500,
+      "addr": "Ambassador's Court, London","danger": false
+    },{
+      "id": 14,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "Vauxhall","img": "https://i.pinimg.com/originals/f5/aa/be/f5aabee3976823bbe2eb58f79f3d39ac.jpg",
+      "lat": 51.485993,"lon": -0.124874,"radius": 400,
+      "addr": "20B Wandsworth Road, London","danger": false
+    },{
+      "id": 15,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "Tower Bridge","img": "https://farm8.staticflickr.com/7716/27921922231_16484f199d_b.jpg",
+      "lat": 51.505675,"lon": -0.075190,"radius": 250,
+      "addr": "Tower Bridge, London","danger": false
+    },{
+      "id": 16,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
+      "name": "School 21","img": "https://farm1.staticflickr.com/31/47996620_aea8328919_m.jpg",
+      "lat": 51.538224,"lon": 0.001053,"radius": 200,
+      "addr": "2-6 New Mount Street, London","danger": false
+    },{
+      "id": 21,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "name": "Flevopark","img": "https://live.staticflickr.com/3065/2541129128_846d37ab8a_z.jpg",
+      "lat": 52.360186,"lon": 4.950414,"radius": 400,
+      "addr": "Flevopark, Amsterdam","danger": false
+    },{
+      "id": 22,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "name": "Koninklijk Paleis","img": "https://thumbs.dreamstime.com/t/amsterdam-cuadrado-de-la-presa-por-noche-51440807.jpg",
+      "lat": 52.373148,"lon": 4.891379,"radius": 200,
+      "addr": "Mozes en Aäronstraat 4, Amsterdam","danger": false
+    },{
+      "id": 23,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "name": "Central station","img": "https://farm1.staticflickr.com/730/32184998135_d6757219a2_b.jpg",
+      "lat": 52.377779,"lon": 4.901251,"radius": 300,
+      "addr": "Stationsplein 19B, Amsterdam","danger": false
     }
   ],
   "events": [
@@ -210,8 +139,7 @@
       "bat": "77%",
       "net": "HSPA+",
       "act": "on_foot"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "in_place",
@@ -224,8 +152,7 @@
       "bat": "75%",
       "net": "HSPA+",
       "act": "still"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "out_place",
@@ -238,8 +165,7 @@
       "bat": "68%",
       "net": "LTE",
       "act": "in_vehicle"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "default",
@@ -252,8 +178,7 @@
       "bat": "67%",
       "net": "LTE",
       "act": "in_vehicle"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "in_danger_place",
@@ -266,8 +191,7 @@
       "bat": "65%",
       "net": "LTE",
       "act": "on_foot"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "out_danger_place",
@@ -280,8 +204,7 @@
       "bat": "60%",
       "net": "LTE",
       "act": "on_foot"
-    },
-    {
+    },{
       "user_id": 21,
       "user_color": "#7C4DFF",
       "type": "default",
