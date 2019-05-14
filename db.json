@@ -268,7 +268,7 @@
       "lat": 51.500776,
       "lon": -0.142901,
       "radius": 500,
-      "addr": "Ambassador's Court, London (Westminster)",
+      "addr": "Ambassador's Court, London",
       "danger": false
     },
     {
@@ -281,7 +281,7 @@
       "lat": 51.485993,
       "lon": -0.124874,
       "radius": 400,
-      "addr": "20B Wandsworth Road, London (Vauxhall)",
+      "addr": "20B Wandsworth Road, London",
       "danger": false
     },
     {
@@ -294,7 +294,7 @@
       "lat": 51.505675,
       "lon": -0.075190,
       "radius": 250,
-      "addr": "Tower Bridge, London (Poplar)",
+      "addr": "Tower Bridge, London",
       "danger": false
     },
     {
@@ -307,7 +307,7 @@
       "lat": 51.538224,
       "lon": 0.001053,
       "radius": 200,
-      "addr": "2-6 New Mount Street, London (West Ham)",
+      "addr": "2-6 New Mount Street, London",
       "danger": false
     },
     {
@@ -360,7 +360,7 @@
       "end_time": 0,
       "lat": 52.377766,
       "lon": 4.901230,
-      "addr": "Test address 0, Amsterdam",
+      "addr": "Test address 0, City",
       "bat": "77%",
       "net": "HSPA+",
       "act": "on_foot"
@@ -374,7 +374,7 @@
       "end_time": 0,
       "lat": 52.377777,
       "lon": 4.901245,
-      "addr": "Test address 1, Amsterdam",
+      "addr": "Test address 1, City",
       "bat": "75%",
       "net": "HSPA+",
       "act": "still"
@@ -388,7 +388,7 @@
       "end_time": 0,
       "lat": 52.377790,
       "lon": 4.901254,
-      "addr": "Test address 1, Amsterdam",
+      "addr": "Test address 1, City",
       "bat": "68%",
       "net": "LTE",
       "act": "in_vehicle"
@@ -402,7 +402,7 @@
       "end_time": 0,
       "lat": 52.377820,
       "lon": 4.901280,
-      "addr": "Test address 2, Amsterdam",
+      "addr": "Test address 2, City",
       "bat": "67%",
       "net": "LTE",
       "act": "in_vehicle"
@@ -416,7 +416,7 @@
       "end_time": 0,
       "lat": 52.377833,
       "lon": 4.901294,
-      "addr": "Test danger address 1, Amsterdam",
+      "addr": "Test danger address 1, City",
       "bat": "65%",
       "net": "LTE",
       "act": "on_foot"
@@ -430,7 +430,7 @@
       "end_time": 0,
       "lat": 52.377850,
       "lon": 4.901305,
-      "addr": "Test address 3, Amsterdam",
+      "addr": "Test address 3, City",
       "bat": "60%",
       "net": "LTE",
       "act": "on_foot"
@@ -444,7 +444,7 @@
       "end_time": 0,
       "lat": 52.377865,
       "lon": 4.901330,
-      "addr": "Test address 4, Amsterdam",
+      "addr": "Test address 4, City",
       "bat": "58%",
       "net": "LTE",
       "act": "in_vehicle"
