@@ -126,48 +126,34 @@
       "addr": "Stationsplein 19B, Amsterdam","danger": false
     }
   ],
-  "events": [
+  "events_user_21": [
     {
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "default","param": "",
-      "time": 0,"lat": 52.377766,"lon": 4.901230,
-      "addr": "Test address 0, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.377766,"lon": 4.901230,"addr": "Test address 0, City",
       "bat": "77%","net": "HSPA+","act": "on_foot"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "in_place","param": "PlaceName#1",
-      "time": 0,"lat": 52.377777,"lon": 4.901245,
-      "addr": "Test address 1, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "in_place","param": "PlaceName#1","time": 0,
+      "lat": 52.377777,"lon": 4.901245,"addr": "Test address 1, City",
       "bat": "75%","net": "HSPA+","act": "still"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "out_place","param": "PlaceName#1",
-      "time": 0,"lat": 52.377790,"lon": 4.901254,
-      "addr": "Test address 1, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "out_place","param": "PlaceName#1","time": 0,
+      "lat": 52.377790,"lon": 4.901254,"addr": "Test address 1, City",
       "bat": "68%","net": "LTE","act": "in_vehicle"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "default","param": "",
-      "time": 0,"lat": 52.377820,"lon": 4.901280,
-      "addr": "Test address 2, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.377820,"lon": 4.901280,"addr": "Test address 2, City",
       "bat": "67%","net": "LTE","act": "in_vehicle"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "in_danger_place","param": "DangerPlace#1",
-      "time": 0,"lat": 52.377833,"lon": 4.901294,
-      "addr": "Test danger address 1, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "in_danger_place","param": "DangerPlace#1","time": 0,
+      "lat": 52.377833,"lon": 4.901294,"addr": "Test danger address 1, City",
       "bat": "65%","net": "LTE","act": "on_foot"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "out_danger_place","param": "DangerPlace#1",
-      "time": 0,"lat": 52.377850,"lon": 4.901305,
-      "addr": "Test address 3, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "out_danger_place","param": "DangerPlace#1","time": 0,
+      "lat": 52.377850,"lon": 4.901305,"addr": "Test address 3, City",
       "bat": "60%","net": "LTE","act": "on_foot"
     },{
-      "user_id": 21,"user_color": "#7C4DFF",
-      "type": "default","param": "",
-      "time": 0,"lat": 52.377865,"lon": 4.901330,
-      "addr": "Test address 4, City",
+      "user_id": 21,"user_color": "#7C4DFF","type": "default","param": "","time": 0,
+      "lat": 52.377865,"lon": 4.901330,"addr": "Test address 4, City",
       "bat": "58%","net": "LTE","act": "in_vehicle"
     }
   ]
