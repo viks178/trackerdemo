@@ -80,11 +80,6 @@
   ],
   "places": [
     {
-      "id": 12,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
-      "name": "King's Cross","img": "https://farm5.staticflickr.com/4750/38688507120_b5e10228bf_b.jpg",
-      "lat": 51.531965,"lon": -0.123557,"radius": 300,
-      "addr": "30 York Way, London","danger": true
-    },{
       "id": 13,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Buckingham Palace","img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
       "lat": 51.500776,"lon": -0.142901,"radius": 500,
