@@ -11,12 +11,6 @@
       "ago": 0,"addr": "167 Charing Cross Road, London (West End)",
       "bat": "100%","net": "LTE","act": "still","sound": "on"
     },{
-      "id": 12,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
-      "name": "Wyatt Morris","img": "https://randomuser.me/api/portraits/men/91.jpg",
-      "lat": 51.500789,"lon": -0.107117,"acc": 5,
-      "ago": 0,"addr": "5B Baron's Place, London (Waterloo)",
-      "bat": "88%","net": "HSPA+","act": "in_vehicle","sound": "vibro"
-    },{
       "id": 13,"admin": 0,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "June Cha","img": "https://randomuser.me/api/portraits/women/44.jpg",
       "lat": 51.529755,"lon": -0.122425,"acc": 50,
