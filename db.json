@@ -90,11 +90,6 @@
       "lat": 51.531965,"lon": -0.123557,"radius": 300,
       "addr": "30 York Way, London","danger": true
     },{
-      "id": 13,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
-      "name": "Buckingham Palace","img": "https://i.pinimg.com/236x/c5/f1/ab/c5f1ab1fcd93aea01e35ec9f97e10f00--buckingham-palace-the-public.jpg",
-      "lat": 51.500776,"lon": -0.142901,"radius": 500,
-      "addr": "Ambassador's Court, London","danger": false
-    },{
       "id": 14,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Vauxhall","img": "https://i.pinimg.com/originals/f5/aa/be/f5aabee3976823bbe2eb58f79f3d39ac.jpg",
       "lat": 51.485993,"lon": -0.124874,"radius": 400,
