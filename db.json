@@ -1,7 +1,7 @@
 { 
   "circles": [
-    {"id": 11111,"name": "Circle 1","color": "#009688","size": 7}, 
-    {"id": 22222,"name": "Circle 2","color": "#7C4DFF","size": 5}
+    {"id": 11111,"name": "Circle 1","color": "#009688","size": 7, "status":"creator"}, 
+    {"id": 22222,"name": "Circle 2","color": "#7C4DFF","size": 5, "status":"default"}
   ],
   "users": [
     {
