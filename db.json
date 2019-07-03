@@ -9,73 +9,73 @@
       "name": "Leo Gill","img": "https://randomuser.me/api/portraits/men/32.jpg",
       "lat": 51.516102,"lon": -0.130463,"acc": 20,
       "ago": 0,"addr": "167 Charing Cross Road, London (West End)",
-      "bat": "100%","net": "LTE","act": "still","sound": "on"
+      "bat": 100,"net": "LTE","act": "still","sound": "on"
     },{
       "id": 12,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Wyatt Morris","img": "https://randomuser.me/api/portraits/men/91.jpg",
       "lat": 51.500789,"lon": -0.107117,"acc": 5,
       "ago": 0,"addr": "5B Baron's Place, London (Waterloo)",
-      "bat": "88%","net": "HSPA+","act": "in_vehicle","sound": "vibro"
+      "bat": 88,"net": "HSPA+","act": "in_vehicle","sound": "vibro"
     },{
       "id": 13,"admin": 0,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "June Cha","img": "https://randomuser.me/api/portraits/women/44.jpg",
       "lat": 51.529755,"lon": -0.122425,"acc": 50,
       "ago": 0,"addr": "1 Crestfield Street, London (Grays Inn)",
-      "bat": "55%","net": "HSPA+","act": "still","sound": "vibro"
+      "bat": 55,"net": "HSPA+","act": "still","sound": "vibro"
     },{
       "id": 14,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Iida Niskanen","img": "https://randomuser.me/api/portraits/women/68.jpg",
       "lat": 51.479621,"lon": -0.199087,"acc": 10,
       "ago": 0,"addr": "518 Fulham Road, London (Hammersmith)",
-      "bat": "72%","net": "WiFi","act": "still","sound": "off"
+      "bat": 72,"net": "WiFi","act": "still","sound": "off"
     },{
       "id": 15,"admin": 0,"circle_name": "Circle 1","circle_id": 11111,"circle_color": "#009688",
       "name": "Ferdinand Karl","img": "https://randomuser.me/api/portraits/men/78.jpg",
       "lat": 51.553672,"lon": -0.040660,"acc": 30,
       "ago": 0,"addr": "29 Redwald Road, London (Walthamstow)",
-      "bat": "29%","net": "WiFi","act": "on_foot","sound": "on"
+      "bat": 29,"net": "WiFi","act": "on_foot","sound": "on"
     },{
       "id": 16,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Mia Denys","img": "https://randomuser.me/api/portraits/women/2.jpg",
       "lat": 51.563366,"lon": -0.168228,"acc": 15,
       "ago": 0,"addr": "13 East Heath Road, London (Hampstead)",
-      "bat": "65%","net": "LTE","act": "in_vehicle","sound": "on"
+      "bat": 65,"net": "LTE","act": "in_vehicle","sound": "on"
     },{
       "id": 17,"admin": 1,"circle_id": 11111,"circle_name": "Circle 1","circle_color": "#009688",
       "name": "Harold Adams","img": "https://randomuser.me/api/portraits/men/17.jpg",
       "lat": 51.474791,"lon": -0.106158,"acc": 25,
       "ago": 0,"addr": "94 Akerman Road, London (Lambeth)",
-      "bat": "91%","net": "WiFi","act": "","sound": "vibro"
+      "bat": 91,"net": "WiFi","act": "","sound": "vibro"
     },{
       "id": 21,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Leo Fritz","img": "https://randomuser.me/api/portraits/men/58.jpg",
       "lat": 52.372591,"lon": 4.902786,"acc": 100,
       "ago": 0,"addr": "Recht Boomssloot 47C, Amsterdam",
-      "bat": "78%","net": "LTE","act": "still","sound": "on"
+      "bat": 78,"net": "LTE","act": "still","sound": "on"
     },{
       "id": 22,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Alexander Martin","img": "",
       "lat": 52.349347,"lon": 4.872683,"acc": 25,
       "ago": 0,"addr": "Minervalaan 19, Amsterdam",
-      "bat": "58%","net": "HSPA+","act": "in_vehicle","sound": "vibro"
+      "bat": 58,"net": "HSPA+","act": "in_vehicle","sound": "vibro"
     },{
       "id": 23,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Laura Rasmussen","img": "https://randomuser.me/api/portraits/women/9.jpg",
       "lat": 52.376811,"lon": 4.860764,"acc": 20,
       "ago": 0,"addr": "Jan Haringstraat 19, Amsterdam",
-      "bat": "35%","net": "LTE","act": "on_foot","sound": "off"
+      "bat": 35,"net": "LTE","act": "on_foot","sound": "off"
     },{
       "id": 24,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Topias Kantola","img": "https://randomuser.me/api/portraits/men/60.jpg",
       "lat": 52.386368,"lon": 4.841916,"acc": 30,
       "ago": 0,"addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)",
-      "bat": "81%","net": "WiFi","act": "","sound": "on"
+      "bat": 81,"net": "WiFi","act": "","sound": "on"
     },{
       "id": 25,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Emeline Duarte","img": "https://randomuser.me/api/portraits/women/15.jpg",
       "lat": 52.343264,"lon": 4.925995,"acc": 20,
       "ago": 0,"addr": "Von Guerickestraat 93, Amsterdam",
-      "bat": "81%","net": "LTE","act": "in_vehicle","sound": "on"
+      "bat": 81,"net": "LTE","act": "in_vehicle","sound": "on"
     }
   ],
   "places": [
