@@ -1,7 +1,7 @@
 { 
   "circles": [
     {"id": 11111,"name": "Circle 1","color": "#009688","size": 7, "admin": 2}, 
-    {"id": 22222,"name": "Circle 2","color": "#7C4DFF","size": 5, "admin": 1}
+    {"id": 22222,"name": "Circle 2","color": "#7C4DFF","size": 6, "admin": 1}
   ],
   "users": [
     {
@@ -48,30 +48,36 @@
       "bat": 91,"net": "WiFi","act": "","sound": "vibro"
     },{
       "id": 21,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "name": "Leo Gill","img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "lat": 52.362244,"lon": 4.874966,"acc": 25,
+      "ago": 0,"addr": "Overtoom 93, Amsterdam",
+      "bat": 78,"net": "LTE","act": "on_foot","sound": "on"
+    },{
+      "id": 22,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Leo Fritz","img": "https://randomuser.me/api/portraits/men/58.jpg",
       "lat": 52.372591,"lon": 4.902786,"acc": 100,
       "ago": 0,"addr": "Recht Boomssloot 47C, Amsterdam",
       "bat": 78,"net": "LTE","act": "still","sound": "on"
     },{
-      "id": 22,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "id": 23,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Alexander Martin","img": "",
       "lat": 52.349347,"lon": 4.872683,"acc": 25,
       "ago": 0,"addr": "Minervalaan 19, Amsterdam",
       "bat": 58,"net": "HSPA+","act": "in_vehicle","sound": "vibro"
     },{
-      "id": 23,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "id": 24,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Laura Rasmussen","img": "https://randomuser.me/api/portraits/women/9.jpg",
       "lat": 52.376811,"lon": 4.860764,"acc": 20,
       "ago": 0,"addr": "Jan Haringstraat 19, Amsterdam",
       "bat": 35,"net": "LTE","act": "on_foot","sound": "off"
     },{
-      "id": 24,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "id": 25,"admin": 0,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Topias Kantola","img": "https://randomuser.me/api/portraits/men/60.jpg",
       "lat": 52.386368,"lon": 4.841916,"acc": 30,
       "ago": 0,"addr": "Kingsfordweg, 1043, Zaanstad (Amsterdam Havens)",
       "bat": 81,"net": "WiFi","act": "","sound": "on"
     },{
-      "id": 25,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "id": 26,"admin": 1,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Emeline Duarte","img": "https://randomuser.me/api/portraits/women/15.jpg",
       "lat": 52.343264,"lon": 4.925995,"acc": 20,
       "ago": 0,"addr": "Von Guerickestraat 93, Amsterdam",
