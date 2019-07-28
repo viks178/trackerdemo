@@ -47,7 +47,7 @@
       "ago": 0,"addr": "94 Akerman Road, London (Lambeth)",
       "bat": 91,"net": "WiFi","act": "","sound": "vibro"
     },{
-      "id": 22,"admin": 2,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
+      "id": 21,"admin": 2,"circle_id": 22222,"circle_name": "Circle 2","circle_color": "#7C4DFF",
       "name": "Leo Fritz","img": "https://randomuser.me/api/portraits/men/58.jpg",
       "lat": 52.372591,"lon": 4.902786,"acc": 100,
       "ago": 0,"addr": "Recht Boomssloot 47C, Amsterdam",
